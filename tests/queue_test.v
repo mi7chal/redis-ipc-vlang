@@ -1,6 +1,6 @@
 module tests
 
-import redis_ipc {WriteQueue, ReadQueue}
+import redisipc {WriteQueue, ReadQueue}
 import rand
 import time
 

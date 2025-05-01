@@ -1,4 +1,4 @@
-module redis_ipc
+module redisipc
 
 import json
 import xiusin.vredis { Pool }

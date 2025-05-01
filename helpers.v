@@ -1,4 +1,4 @@
-module redis_ipc
+module redisipc
 
 import xiusin.vredis {Redis, ConnOpts, new_pool, PoolOpt, Pool}
 

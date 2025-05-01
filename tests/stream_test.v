@@ -1,7 +1,7 @@
 module tests
 
 import time
-import redis_ipc {WriteStream, ReadStream}
+import redisipc {WriteStream, ReadStream}
 import rand
 
 

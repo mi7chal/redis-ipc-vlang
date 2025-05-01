@@ -1,4 +1,4 @@
-module redis_ipc
+module redisipc
 
 import time
 import xiusin.vredis { Pool }

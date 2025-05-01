@@ -2,7 +2,7 @@ module tests
 
 import rand
 import time
-import redis_ipc { Cache }
+import redisipc { Cache }
 
 fn test_random_element_not_exists() {
 	name := rand.string(10)

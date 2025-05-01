@@ -18,6 +18,7 @@ bin/
 
 # ENV
 .env
+config.toml
 
 # vweb and database
 *.db

@@ -1,5 +1,5 @@
 Module {
-	name: 'redis_ipc'
+	name: 'redisipc'
 	description: 'Simple package for inter-process and service-to-service communication using Redis'
 	version: '0.1.0'
 	license: 'MIT'
